@@ -32,6 +32,8 @@ LEAGUES = {
     135: {"name": "Serie A", "emoji": "🇮🇹", "abbr": "Serie A", "sport": "soccer_italy_serie_a"},
     78: {"name": "Bundesliga", "emoji": "🇩🇪", "abbr": "BL", "sport": "soccer_germany_bundesliga"},
     61: {"name": "Ligue 1", "emoji": "🇫🇷", "abbr": "L1", "sport": "soccer_france_ligue_1"},
+    203: {"name": "Chinese Super League", "emoji": "🇨🇳", "abbr": "CSL", "sport": "soccer_china_super_league"},
+    290: {"name": "J-League", "emoji": "🇯🇵", "abbr": "J-League", "sport": "soccer_japan_j_league"},
 }
 
 SEASON = 2024
